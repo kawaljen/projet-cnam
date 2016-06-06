@@ -1,0 +1,110 @@
+/* General */
+html {margin:0;padding:0;}
+body {font-family:Arial,sans-serif;font-size:14px; width:100%;margin:0;padding:0;color:#4C4C4C;line-height: 150%;}
+img {border:none;}
+ul {list-style-type:none;padding:0;margin:0;}
+div, p, img, table, tbody {margin:0;padding:0;}
+.clr {clear:both}
+.floatright{float:right; margin:20px;}
+.marge{margin:20px;}
+table,tbody,tr,td{ vertical-align:top;}
+.imgtitre{float:left; }
+.dispnone{display:none;}
+
+a:link {color: #4C4C4C; 
+       text-decoration: none;}
+a:visited {color:  #4C4C4C;}
+a:hover {color : #000;}
+a:active {color : #ffffff;}
+
+
+/*Container*/
+/*body{ background:url(../images/fonddte.png)right top no-repeat #999999; }*/
+body{background:url(../images/fondgche.png)left top no-repeat #454545;}
+#logo {margin-left:45px;}
+/*Menu gauche*/
+#gauche{width:20%; min-width:200px;float:left; margin:30px;}
+#nav{margin:50px 0 0 25px;}
+
+
+/*Menu droite haut*/
+#haut{float:right;font-weight:600;padding-top:10px;}
+#haut div{float:left;}
+#haut div img {margin:10px 20px 10px 10px;}
+#haut  li{float:left; margin:10px;font-size:14px;}
+#haut #connecte{clear:both; float:right; padding:0 15px 15px; margin-right:30px;}
+/*diaporama*/
+#diaporama img{margin:10px 20px; border:solid 10px #6f916f; }
+/*index.php*
+/*colonne1*/
+#colonne1{width:430px;float:left;background-color:#fff;margin:10px;padding:30px 10px;}
+#colonne1 #introduction {margin:30px 0 25px; font-style:italic; font-size:16px; }
+#colonne1 h1,  #colonne2 h2{text-transform: uppercase; letter-spacing: -2px; margin:20px 0 10px;}
+#colonne1 h1{background:url(../images/historique.png)right top no-repeat; display:inline; padding:10px 80px 40px 0; }
+#colonne2 h2{background:url(../images/fleche.png)right top no-repeat; display:inline block; padding:10px 40px 10px 0;}
+
+/*colonne2*/
+#colonne2{width:230px;float:left;background-color:#fff;margin:10px;padding:10px;}
+
+
+/*espace connection*/
+.identif_block {display:block; width:335px;height:300px; float:left; margin: 0 25px;background:url(../images/panier_fond_identif.png) top center no-repeat #ffe680;}
+.identif_block .titre{background:url(../images/panier_trfond.png) top center repeat-x; height:54px; color:#4C4C4C; font-style:italic;font-size:18px; padding:15px 0; text-align:center; font-weight:800 }
+.identif_block .contenu { padding:0 30px;text-align:center;  }
+.identif_block .contenu p{font-size:15px;font-weight:600; color:#6f8a91;margin-bottom:20px;}
+#block{margin-top: 15px;}
+#sinscrire{background:url(../images/panier_sinscrire.png) top center no-repeat; display:block; height:41px;width:136px; margin:0 auto;}
+
+/*espace perso*/
+#perso {background-color:#de8787;float:left; width:700px;margin:20px;}
+#perso #titre{ background-color:#711f1f; margin:0; padding:20px; color:#fff;}
+#perso #contenu {padding:20px;}
+
+
+/*inscription*/
+#form_ins{float:left; width:700px;background-color:#b6d2be;margin:20px;padding:10px;}
+#form_ins div{margin:10px 0;}
+#form_ins label{display:block; float:left;width:200px;}
+
+/*catalogue*/
+#catalogue{float:left; width:700px;margin:20px;padding:10px; color:#fff;}
+#catalogue a {color:#fff;}
+#catalogue .categorie{clear:both; background-color:#465e5b;margin-top:20px;}
+#catalogue .categorie h2 {padding:10px;}
+#catalogue .categorie .lien_detail {font-style:italic; font-size:13px;}
+#catalogue .article{float:left; width:300px;display:block;padding:10px 5px;margin:15px 7px; background-color:#394c4a;}
+#catalogue .topo {float:right; width:130px; display:block; }
+#catalogue h1 {float:left;padding:10px;}
+#catalogue #divrecherche{float:right;padding:25px 10px;}
+#catalogue #titrecat{display:block; height:100px; background-color:#394c4a;}
+
+
+/*catalogue detail*/
+#diap_catalogue {background-color:#315840;float:left; width:700px;margin:20px;padding:10px;}
+#diap_catalogue .article{float:left; width:300px;display:block; background-color:#fff;padding:10px 5px;margin:15px 7px;}
+#detail{background-color:#315840;float:left; width:700px;margin:40px 20px;color:#fff;}
+#detail .img_detail {background-color:#447d5a; padding:40px 0;}
+#detail .img_detail img {margin:0 20px;}
+#detail .topo {margin:10px;}
+#detail .topo input {margin:20px; float:right;}
+#detail .commentaire {padding:10px; }
+#detail .commentaire p {margin:10px;padding:10px;}
+#detail .commentaire p .date {font-style:italic;}
+#detail .commentaire p .username {font-weight:600;}
+
+/*panier*/
+#block_panier{background-color:#b6d2be;float:left; width:700px;margin:80px 20px;padding:10px;}
+#block_panier #menu{border-bottom:solid 2px #4C4C4C;padding:20px 0;}
+#block_panier #menu ul li {float:left;margin:0 20px; font-size:18px; font-family:impact;}
+#block_panier .identif_block{width:300px;height:300px;margin:20px;background-color:#5b916b;}
+#block_panier .identif_block .contenu p{color:#fff;}
+
+
+/*espace admin*/
+#esp_admin{background-color:#fff;float:left; width:700px;margin:20px;padding:10px;}
+#esp_admin form div label{float:left; width:150px;}
+#esp_admin form div {margin:5px;}
+#esp_admin form{display:block;}
+a.choixadmin{padding:5px; background-color:#eeeeee; border-radius: 3px; margin:0 5px;}
+/*footer*/
+#footer li {float:right;margin:10px;}

@@ -1,0 +1,4 @@
+AuthUserFile admin/tools/.htpasswd
+AuthName "Accès Restreint"
+AuthType Basic
+require valid-user

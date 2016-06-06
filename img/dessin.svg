@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4683-1-1"
+       id="linearGradient4689-6-7"
+       x1="414.327"
+       y1="366.49365"
+       x2="414.327"
+       y2="326.07114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5139257,0,0,1.4198434,-850.96584,94.402289)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4683-1-1">
+      <stop
+         style="stop-color:#b2bbbb;stop-opacity:1"
+         offset="0"
+         id="stop4685-3-07" />
+      <stop
+         style="stop-color:#d3dfee;stop-opacity:1"
+         offset="1"
+         id="stop4687-8-7" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4747-9-9">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6648919"
+         id="feGaussianBlur4749-3-3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="511"
+     inkscape:window-height="403"
+     inkscape:window-x="75"
+     inkscape:window-y="75"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#dbdee3;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4747-9-9)"
+       id="rect4637-3-4-6"
+       width="89.453354"
+       height="43.737999"
+       x="376.74054"
+       y="325.82321"
+       ry="14.282978"
+       transform="matrix(2.5139257,0,0,1.4198434,-850.96584,95.836549)"
+       inkscape:export-filename="C:\xampp\htdocs\projet3\img\icon\panier_ajout.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <rect
+       style="fill:url(#linearGradient4689-6-7);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.94464022;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4637-4-0"
+       width="223.6024"
+       height="58.980988"
+       x="95.505028"
+       y="557.30725"
+       ry="18.320066"
+       inkscape:export-filename="C:\xampp\htdocs\projet3\img\icon\panier_ajout.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:AHDN;-inkscape-font-specification:AHDN"
+       x="149.76715"
+       y="596.91718"
+       id="text4751-6-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\xampp\htdocs\projet3\img\icon\panier_ajout.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50"><tspan
+         sodipodi:role="line"
+         id="tspan4753-0-44"
+         x="149.76715"
+         y="596.91718"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Blue Highway Linocut;-inkscape-font-specification:Blue Highway Linocut">&gt; Bouton</tspan></text>
+  </g>
+</svg>
