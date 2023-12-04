@@ -3,8 +3,8 @@
 ## Description 
 A project for a web training that include front end and back end code.
 
- -SQL
- -javascript
+- SQL
+- Javascript
 - PHP
 - Css
 - HTML
